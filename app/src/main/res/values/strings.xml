@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="refresh">Refresh</string>
+    <string name="posts">Posts</string>
+    <string name="post_detail">Post Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="comments">Comments</string>
+    <string name="connection_error">Please check your internet connection</string>
+    <string name="all">All</string>
+    <string name="favorites">Favorites</string>
+    <string name="user">User</string>
+    <string name="delete">Delete</string>
+</resources>
