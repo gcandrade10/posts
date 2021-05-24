@@ -34,7 +34,7 @@ We are using the MVVM pattern, the UI has a single Activity, and each screen is 
 
 ![posts](./posts.gif)
 
-## TODOS
+## TODOs
 
 * Unit tests
 * Extensions for Either class
